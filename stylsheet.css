@@ -1,0 +1,71 @@
+* {
+    background-color: #b4a298;
+}
+
+.button {
+    background-color: #4c433e;
+    border: white;
+    color: white;
+    padding: 10px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-top: 25px;
+    margin-bottom: 15px;
+
+}
+
+.username{
+    margin-top: 25px;
+    margin-bottom: 11px;
+    background-color: white;
+    color:black;
+    text-decoration: none;
+    font-size: 14px;
+    position: relative;
+
+
+
+}
+
+.password{
+    margin-bottom: 11px;
+    text-decoration: none;
+    color: black;
+    background-color: white;
+}
+.userlabel{
+    color: white;
+}
+.cpassword{
+    margin-top: 1px;
+    margin-right: 50px;
+    background-color: white;
+    color: black;
+}
+.userlabel{
+    color: black;
+}
+.pasword{
+    margin-left: 5px;
+    color: black;
+}
+.cpasword{
+    color: black;
+}
+.reg{
+    background-color: #4c433e;
+    color: white;
+    padding: 5px 5px;
+    text-decoration: none;
+}
+
+.log{
+    background-color: #4c433e;
+    color: white;
+    padding: 5px 5px;
+    text-decoration: none;
+
+}
+
