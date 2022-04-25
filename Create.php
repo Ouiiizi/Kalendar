@@ -1,5 +1,5 @@
 <?php
-require_once "./dbconn.php";
+require_once "dbconn.php";
 
 // Define variables and initialize with empty values
 $first_name= $last_name = $email = "";

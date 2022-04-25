@@ -105,7 +105,7 @@ for ($day = 1; $day <= $day_count; $day++, $str++) {
     </table>
 </div>
 
-<form action="">
+<form action="input_activity.php" method="post">
     <input class="form-control" placeholder="Activity Name"  name="activity" type="text" autofocus> </div>
     <div class="form-group">
         <input class="form-control" placeholder="Description" name="description" type="Text" value="">
